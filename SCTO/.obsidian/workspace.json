@@ -64,15 +64,39 @@
               "state": {
                 "file": "Testing.canvas",
                 "viewState": {
-                  "x": -105.89205839416059,
-                  "y": -112.78565693430635,
-                  "zoom": -1.2015029205253707
+                  "x": -14.19043795620438,
+                  "y": -394.94448905109493,
+                  "zoom": -0.9231329829862704
                 }
+              }
+            }
+          },
+          {
+            "id": "87efea1533cee319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero/Zotero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104b265762cc8814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zotero Microclimate.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -130,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 326.5
   },
   "right": {
     "id": "f1027b9aeedb0cb5",
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.canvas",
+                "file": "Zotero Microclimate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.canvas",
+                "file": "Zotero Microclimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.canvas"
+                "file": "Zotero Microclimate.md"
               }
             }
           },
@@ -218,11 +242,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65e9c833c39092e4",
+  "active": "104b265762cc8814",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Zotero Microclimate.md",
+    "Zotero/Zotero.md",
+    "Review on Geir 2014.md",
+    "Testing.canvas",
+    "Mind Map/Readme Mind map.md",
+    "Mind Map/IoT blockchain.md",
+    "Mind Map/Check box.md",
+    "2️⃣ Collections/Concepts/Law of Requisite Variety.md",
     "Excalidraw/SLR github.md",
     "__Templates/Lecture Notes.md",
-    "Testing.canvas",
     "Excalidraw/Timeline.md",
     "Excalidraw/user journey diagrams.md",
     "Excalidraw/API gateway.md",
@@ -233,11 +265,8 @@
     "Canvas/Homepage.canvas",
     "Canvas/Brainstorm.canvas",
     "Canvas/Book Dashboard.canvas",
-    "Mind Map/Readme Mind map.md",
     "Exercise 1/0 Start.md",
-    "Mind Map/Check box.md",
     "Mind Map/Mind mapping.md",
-    "Mind Map/IoT blockchain.md",
     "Markdown/Markdown.md",
     "📆 Activity/Untitled.md",
     "Dataview/👓 List of Papers.md",
@@ -252,10 +281,6 @@
     "Introduction SLR and AI.md",
     "__Templates/Zettelkasten.md",
     "__Templates/Test.md",
-    "__Templates/Survey.md",
-    "__Templates/MOC.md",
-    "__Templates/Daily Todo.md",
-    "__Templates/Daily Template.md",
     "__Media/Zettelkasten steps.png",
     "Canvas",
     "Kanban",

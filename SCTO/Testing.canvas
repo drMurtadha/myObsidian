@@ -2,10 +2,11 @@
 	"nodes":[
 		{"id":"70c13a9ace082b15","type":"text","text":"heritage","x":-200,"y":-280,"width":250,"height":60,"color":"2"},
 		{"id":"aeecadba3ba91a25","type":"text","text":"Microclimate","x":-800,"y":-275,"width":250,"height":50,"color":"1"},
-		{"id":"723d39ab18dc3603","type":"file","file":"__Papers/Pianka 1966.pdf","x":160,"y":-520,"width":400,"height":400,"color":"2"},
-		{"id":"793b6e6bf294374a","type":"file","file":"__Media/Pasted image 20221214115955.png","x":160,"y":120,"width":400,"height":233,"color":"2"},
-		{"id":"0aac5eaf0c6682aa","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md","x":-675,"y":37,"width":400,"height":400},
-		{"id":"7bf0d982f59c7c36","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HijRVnwACBw?si=Hv2HJHbs-8lUnu6q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n","x":-377,"y":-980,"width":605,"height":360}
+		{"id":"7bf0d982f59c7c36","type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/HijRVnwACBw?si=Hv2HJHbs-8lUnu6q\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n","x":-377,"y":-980,"width":605,"height":360},
+		{"id":"cce4f9e7d38a1cba","x":-200,"y":560,"width":250,"height":60,"type":"text","text":""},
+		{"id":"723d39ab18dc3603","type":"file","file":"__Papers/Pianka 1966.pdf","x":228,"y":-450,"width":400,"height":400,"color":"2"},
+		{"id":"0aac5eaf0c6682aa","type":"file","file":"3️⃣ Thoughts/Biodiversity Mechanisms.md","x":-800,"y":38,"width":400,"height":400},
+		{"id":"793b6e6bf294374a","type":"file","file":"__Media/Pasted image 20221214115955.png","x":80,"y":122,"width":400,"height":233,"color":"2"}
 	],
 	"edges":[
 		{"id":"442dbd4dbc46e6a5","fromNode":"70c13a9ace082b15","fromSide":"left","toNode":"aeecadba3ba91a25","toSide":"right"},
